@@ -10,8 +10,6 @@ import {
   Button,
   Pressable,
   TouchableOpacity,
-
-  // CustomButton,
 } from 'react-native';
 import { NavigationContainer } from "@react-navigation/native";
 // import {firebase} from '../../config';
